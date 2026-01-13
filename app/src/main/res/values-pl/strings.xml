@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aplikacja Mobilna</string>
+
+    <string name="login">Zaloguj się</string>
+    <string name="email">Email</string>
+    <string name="password">Hasło</string>
+    <string name="register">Zarejestruj się</string>
+    <string name="to_login">Masz już konto?</string>
+    <string name="to_register">Utwórz konto</string>
+    <string name="fill_all">Wypełnij wszystkie pola</string>
+    <string name="login_success">Użytkownik %1$s zalogowany</string>
+    <string name="login_failed">Logowanie nieudane</string>
+    <string name="user_added">Użytkownik %1$s dodany</string>
+</resources>
